@@ -105,10 +105,12 @@ For Software:
 
 *The player enters the dark Crimson Crypt and must use the mouse-controlled flashlight to search for the hidden golden chalice.*
 
-![Screenshot2](Add screenshot of the monster chase here)
+<img width="1346" height="598" alt="useless 2" src="https://github.com/user-attachments/assets/1d8750ef-f510-40fa-b1ca-96335a86bde7" />
+
 *The player is chased by a supernatural monster and must repeatedly press the SPACEBAR to increase the distance.*
 
-![Screenshot3](Add screenshot of the damage invoice here)
+<img width="645" height="600" alt="useless4" src="https://github.com/user-attachments/assets/b4411f62-9641-4341-ae46-ae100765be01" />
+
 *After discovering the ridiculous truth behind the chase, the player receives a ₹4,699 supernatural damage invoice and must sign it to escape.*
 
 # Diagrams
