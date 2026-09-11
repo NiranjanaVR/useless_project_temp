@@ -2,7 +2,7 @@
 
 ## Basic Details
 
-### Team Name: Ctrl
+### Team Name:Host
 
 ### Team Members
 
